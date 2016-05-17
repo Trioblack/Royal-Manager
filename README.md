@@ -1,0 +1,2 @@
+# Royal-Manager
+Gerenciador - Royal
